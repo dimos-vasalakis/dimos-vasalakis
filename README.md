@@ -4,7 +4,7 @@ CS Student | Aspiring AI Entrepreneur & Engineer
 
 ## what i'm up to
 
-* 🎓 **Studying CS** @ University of Crete
+* 🎓 **Studying CS** 
 * 🤖 **Building** AI applications & tech projects
 * 🌐 **Networking** for Erasmus, traineeships & international opportunities
 * 🚀 **Focused on** scalable systems & AI entrepreneurship
