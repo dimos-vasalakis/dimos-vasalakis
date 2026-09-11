@@ -2,22 +2,21 @@
 
 CS Student @ University of Crete | Aspiring AI Entrepreneur & Engineer
 
-```javascript
-const dimos = {
-  role: "CS Student & Software Engineer",
-  location: "Greece 🇬🇷",
-  focus: ["Artificial Intelligence", "Software Engineering", "Startups"],
-  goals: ["Building Tech Companies Abroad", "International Networking"],
-  academics: "University of Crete (Computer Science)"
-};
-what i'm up to
-🎓 Studying CS @ University of Crete
+## what i'm up to
 
-🤖 Building AI applications & tech projects
+* 🎓 **Studying CS** @ University of Crete
+* 🤖 **Building** AI applications & tech projects
+* 🌐 **Networking** for Erasmus, traineeships & international opportunities
+* 🚀 **Focused on** scalable systems & AI entrepreneurship
 
-🌐 Networking for Erasmus, traineeships & international opportunities
+## stack i actually reach for
 
-🚀 Focused on scalable systems & AI entrepreneurship
+![Python](https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-stack i actually reach for
-"Grinding continuously to build the next generation of AI-driven technology."
+---
+
+> *"Grinding continuously to build the next generation of AI-driven technology."*
