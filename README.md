@@ -7,7 +7,7 @@ CS Student | Aspiring AI Entrepreneur & Engineer
 * 🎓 **Studying CS** 
 * 🤖 **Building** AI applications & tech projects
 * 🌐 **Networking** for Erasmus, traineeships & international opportunities
-* 🚀 **Focused on** scalable systems & AI entrepreneurship
+* 🚀 **Focused on** building scalable systems , leveraging cutting-edge technologies to build and ship with high velocity , AI entrepreneurship
 
 ## stack i actually reach for
 
