@@ -1,6 +1,6 @@
 # hii i'm dimos 👋
 
-CS Student | Aspiring AI Entrepreneur & Engineer
+CS Student | Building AI and Full-Stack systems
 
 ## what i'm up to
 
